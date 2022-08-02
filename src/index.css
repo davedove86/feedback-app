@@ -17,10 +17,19 @@ ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   max-width: 768px;
   margin: auto;
   padding: 0 20px;
+}
+
+.title {
+  color: #ff6a95;
+  text-decoration: none;
 }
 
 h3 {
