@@ -15,8 +15,4 @@ function FeedbackItem({item, handleDelete}) {
   )
 }
 
-Card.defaultProps = {
-  reverse: false
-}
-
 export default FeedbackItem
